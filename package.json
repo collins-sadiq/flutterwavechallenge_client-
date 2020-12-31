@@ -8,8 +8,21 @@
     "start": "next start"
   },
   "dependencies": {
+    "antd": "^4.9.4",
+    "autoprefixer": "^10.1.0",
+    "less": "^4.0.0",
+    "less-loader": "^7.2.1",
     "next": "10.0.4",
+    "postcss": "^8.2.2",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "sass": "^1.32.0",
+    "sass-loader": "^10.1.0",
+    "tailwindcss": "^2.0.2",
+    "webpack": "^5.11.1"
+  },
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "style-loader": "^2.0.0"
   }
 }
